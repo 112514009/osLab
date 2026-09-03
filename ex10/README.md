@@ -4,7 +4,7 @@
 To study Linux file permissions and retrieve file metadata using `stat()` and related system calls.
 
 ## CONTEXT :
-**Metadata:** Metadata is data that describes another piece of data.
+**Metadata:** Metadata is data tabout data, for example; file size, permissions, etc...
 
 This program demonstrates how to retrieve and display file metadata in the Linux operating system using the stat() system call. It accepts a filename from the user, obtains information about the file, and displays following details:
 
