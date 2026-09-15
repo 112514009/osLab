@@ -30,13 +30,13 @@ This C program demonstrates how to execute Linux shell commands within a C progr
 ## COMPILATION :
 
 ```bash
-gcc exp1.c -o exp1
+gcc Exp1.c -o Exp1
 ```
 
 ## EXECUTION :
 
 ```bash
-./exp1
+./Exp1
 ```
 
 ## OUTPUT :
