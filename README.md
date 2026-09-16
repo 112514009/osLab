@@ -19,7 +19,7 @@ The programs cover fundamental Operating System concepts including Linux command
 | 7 | [INTER-PROCESS COMMUNICATION USING SHARED MEMORY](https://github.com/112514009/osLab/tree/0d214bc105ed617d81bc9b23966c0036b9d3f353/Exp07) | To demonstrate inter-process communication using shared memory segments and implement operations to create, access, modify, and release shared memory resources. |
 | 8 | [CPU SCHEDULING ALGORITHMS](https://github.com/112514009/osLab/tree/0d214bc105ed617d81bc9b23966c0036b9d3f353/Exp08) | To simulate CPU scheduling algorithms and compare their performance using measures such as waiting time and turnaround time. |
 | 9 | [MEMORY MANAGEMENT – PAGE REPLACEMENT ALGORITHMS](https://github.com/112514009/osLab/tree/0d214bc105ed617d81bc9b23966c0036b9d3f353/Exp09) | To simulate page replacement algorithms such as FIFO, LRU, and Optimal. |
-| 10 | [LINUX FILE PERMISSIONS AND FILE INFORMATION](https://github.com/Balakrishna-0907/osLab/blob/5eb900b71cab77ba7090602fa5c590282dc950ef/ex10/README.md) | To study Linux file permissions and retrieve file metadata using `stat()` and related system calls. |
+| 10 | [LINUX FILE PERMISSIONS AND FILE INFORMATION](https://github.com/112514009/osLab/tree/585d1989e3ff5a714e9c51a65218671d9effe85c/Exp10) | To study Linux file permissions and retrieve file metadata using `stat()` and related system calls. |
 
 ---
 
