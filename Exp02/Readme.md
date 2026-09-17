@@ -39,6 +39,6 @@ Step 2: ./checkfile.sh txtsample.txt
 ```
 
 ## OUTPUT :
-![Output for Experiment 2](https://github.com/Balakrishna-0907/osLab/blob/f61927307488fb582fa437ba068c8606862c9261/ex02/output.png)
+![Output for Experiment 2](https://github.com/112514009/osLab/blob/fd3ceebd1f5bd195564d24be347b783768cba4f8/Exp02/Output2.png)
 
 
