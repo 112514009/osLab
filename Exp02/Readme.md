@@ -35,7 +35,7 @@ Step 4: To exit: ctrl+x
 
 ```bash
 Step 1: chmod u+x checkfile.sh 
-Step 2: ./checkfile.sh file1.txt testdir sample.txt
+Step 2: ./checkfile.sh txtsample.txt
 ```
 
 ## OUTPUT :
