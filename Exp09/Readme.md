@@ -23,4 +23,4 @@ gcc memo_mng.c -o memo_mng
 ```
 
 ## OUTPUT :
-![Output for Experiment 9](https://github.com/Balakrishna-0907/osLab/blob/0735d9171ec33efe92082c35345411d861fa2704/ex09/output.png)
+![Output for Experiment 9](https://github.com/112514009/osLab/blob/a0a047eebbc70d24e6c83d3a2b3da8df00b7ed71/Exp09/Output9.png)
