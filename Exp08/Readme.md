@@ -35,4 +35,4 @@ gcc CSAL.c -o CSAL
 ```
 
 ## OUTPUT :
-![Output for Experiment 8](https://github.com/Balakrishna-0907/osLab/blob/1d1d7801bc2c065fc4e6aa9c0d94951ff79e3d6a/ex08/output.png)
+![Output for Experiment 8](https://github.com/112514009/osLab/blob/0dce2d8f68ce341b0c5d9fc95b933874b5ac2d49/Exp08/Output8.png)
