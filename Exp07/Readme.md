@@ -36,4 +36,4 @@ gcc IPC.c -o IPC
 ```
 
 ## OUTPUT :
-![Output for Experiment 6](https://github.com/Balakrishna-0907/osLab/blob/8b7aba9aa1d69a8dde0b0be80a911b4d695bec61/ex07/output.png)
+![Output for Experiment 6](https://github.com/112514009/osLab/blob/c0ba63fede510ed06e59efb0c932efbd3579d9d5/Exp07/Output7.png)
